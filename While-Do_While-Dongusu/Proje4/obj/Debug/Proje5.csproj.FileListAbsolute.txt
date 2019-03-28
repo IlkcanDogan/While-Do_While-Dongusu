@@ -1,0 +1,9 @@
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje5\bin\Debug\Proje5.exe.config
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje5\bin\Debug\Proje5.exe
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje5\bin\Debug\Proje5.pdb
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje5\obj\Debug\Proje5.Form1.resources
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje5\obj\Debug\Proje5.Properties.Resources.resources
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje5\obj\Debug\Proje5.csproj.GenerateResource.cache
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje5\obj\Debug\Proje5.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje5\obj\Debug\Proje5.exe
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje5\obj\Debug\Proje5.pdb

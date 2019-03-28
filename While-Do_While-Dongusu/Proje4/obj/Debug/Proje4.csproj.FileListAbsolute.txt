@@ -1,0 +1,10 @@
+C:\Users\MKA\Desktop\P\Proje4\Proje4\bin\Debug\Proje4.exe.config
+C:\Users\MKA\Desktop\P\Proje4\Proje4\bin\Debug\Proje4.exe
+C:\Users\MKA\Desktop\P\Proje4\Proje4\bin\Debug\Proje4.pdb
+C:\Users\MKA\Desktop\P\Proje4\Proje4\obj\Debug\Proje4.csprojAssemblyReference.cache
+C:\Users\MKA\Desktop\P\Proje4\Proje4\obj\Debug\Proje5.Form1.resources
+C:\Users\MKA\Desktop\P\Proje4\Proje4\obj\Debug\Proje5.Properties.Resources.resources
+C:\Users\MKA\Desktop\P\Proje4\Proje4\obj\Debug\Proje4.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\P\Proje4\Proje4\obj\Debug\Proje4.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\P\Proje4\Proje4\obj\Debug\Proje4.exe
+C:\Users\MKA\Desktop\P\Proje4\Proje4\obj\Debug\Proje4.pdb
